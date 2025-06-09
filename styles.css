@@ -76,7 +76,7 @@ section{
 }
 
 
-/* Flip Cards */
+/* Flip Cards Under Learn*/
 
 .flip-card-container {
     display: flex;
@@ -123,6 +123,53 @@ section{
     color: #E5E5CB;
     font-size: 1.5rem;
     font-weight: 700;
+    justify-content: end;
+    padding-bottom: 1rem;
+}
+
+.ethicsphoto {
+    width: 75%;
+    height: 75%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.metaphoto{
+     width: 75%;
+    height: 75%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logicphoto{
+     width: 75%;
+    height: 75%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.polyphoto{
+     width: 75%;
+    height: 75%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.epistemphoto{
+     width: 75%;
+    height: 75%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .flip-card-back {
